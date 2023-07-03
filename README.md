@@ -25,7 +25,7 @@ You can install the DummyWords plugin using your preferred Vim plugin manager. B
 - **Plug**:
   - Add the following line to your Vim configuration file (e.g., `~/.vimrc`):
     ```vim
-    Plug 'DummyWords/DummyWords'
+    Plug 'RajaeDev6/DummyWords'
     ```
   - Save the configuration file and run the following command in Vim:
     ```
